@@ -1,7 +1,11 @@
+//Curso: DS-ETE. Aula ministrada:Prof.Joerllys Sérgio//
+/*O programa solicita uma contagem regressiva e um Boom no final */
+
 /*O Thread.sleep() pausa o programa por um tempo. 
 Se algo tentar interromper essa pausa, 
 o Java gera um erro (InterruptedException). 
 O throws InterruptedException apenas avisa que isso pode acontecer.*/
+
 package contador;
 
 public class Contador {
