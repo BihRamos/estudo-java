@@ -17,7 +17,8 @@ public class NotaRecupe {
 
             nota = "Aluno Aprovado";
 
-        } else if (media <= 5) {
+        } 
+        else if (media <= 5) {
 
             nota = "Aluno em Recuperação";
 
@@ -31,11 +32,13 @@ public class NotaRecupe {
             if (mediarec >= 6) {
 
                 nota = "Aluno Aprovado após recuperação";
-            } else {
+            } 
+            else {
                 nota = "Aluno Reprovado";
             }
 
-        } else {
+        } 
+        else {
             nota = "Aluno Reprovado";
         }
 
