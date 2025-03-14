@@ -8,8 +8,8 @@ public class NotaRecupe {
         String nota = "";
         double n1 = 0, n2 = 0, n3 = 0, n4 = 0, media = 0, mediarec = 0;
 
-        n1 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua primeira nota"));
-        n2 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua segunda nota"));
+        n1 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua primeira nota:"));
+        n2 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua segunda nota:"));
 
         media = (n1 + n2) / 2;
 
@@ -23,8 +23,8 @@ public class NotaRecupe {
 
             JOptionPane.showMessageDialog(null, "Resultado da Recuperação: " + media);
 
-            n3 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua media de recuperaçao"));
-            n4 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua nota atualizada"));
+            n3 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua média de recuperaçao:"));
+            n4 = Double.parseDouble(JOptionPane.showInputDialog("Digite sua nota atualizada:"));
 
             mediarec = (n3 + n4) / 2;
 
