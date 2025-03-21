@@ -1,4 +1,4 @@
-
+//Curso: DS-ETE. Aula ministrada:Prof.Joelson //
 package eleicao2.pkg0;
 
 import java.util.Scanner;
