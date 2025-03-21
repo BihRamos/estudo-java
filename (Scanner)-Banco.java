@@ -1,4 +1,9 @@
 //Curso: DS-ETE. Aula ministrada:Prof.Joelson //
+/*O operador == serve para comparar números e objetos na memória
+== (Comparação) → Usado em condições
+O operador == verifica se dois valores são iguais.
+*/
+
 package banco;
 
 import java.util.Scanner;
