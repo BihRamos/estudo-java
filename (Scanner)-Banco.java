@@ -13,13 +13,13 @@ public class Banco {
             
         Scanner scanner = new Scanner(System.in);
         
-        String logi, senha,nome;
+        String login, senha,nome;
         double deposito, saque,saldo = 100; 
         int opcao;
         
        
         System.out.print("Digite seu login: ");
-        String login = scanner.nextLine();
+        login = scanner.nextLine();
         
         System.out.print("Digite sua senha: ");
         senha = scanner.nextLine();
