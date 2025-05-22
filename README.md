@@ -28,6 +28,9 @@ promovendo organização, revisão e evolução contínua no aprendizado.
 - 🚧 Em desenvolvimento contínuo
 - ✏️ Atualizado conforme novos conteúdos do curso são liberados
 ---
+👨‍🏫 Professor Responsável
+Joelson e Joerllys
+Curso Técnico em Desenvolvimento de Sistemas
 
 📅 **Início do curso:** [Fevereiro de 2024]
 🎓 **Instituição:** [Escola Técnica Estadual Miguel Arraes de Alencar]
